@@ -1,0 +1,94 @@
+div {
+	border-radius: 5px;
+}
+
+#header {
+	z-index: 1;
+	position: fixed;
+	width: 97.5%;
+	margin-top: -20px;
+	height: 60px;
+	background-color: #668284;
+	margin-bottom: 10px;
+}
+
+#name {
+	float:left;
+	margin-left: 5px;
+	padding-top: 5px;
+	font-size: 20px;
+	font-family: Verdana, sans-serif;
+	color: #ffffff;
+	position: relative;
+}
+
+#email{
+	float:right;
+	margin-right: 5px;
+	padding-top: 5px;
+	font-size: 16px;
+	font-family: Verdana, sans-serif;
+	color: #ffffff;
+}
+
+h4 {
+	margin-left: 5px;
+	margin-bottom: 15px;
+	font-family: Verdana, sans-serif;
+}
+
+.right p {
+	margin-left: 5px;
+	margin-right: 5px;
+	margin-top: -10px;
+	font-family: Garamond, serif;
+	color: #000000;
+}
+
+li {
+	list-style-type: square;
+}
+
+a:hover {
+	font-weight: bold;
+}
+
+.left {
+	position: relative;
+	float: left;
+	margin-top: 50px;
+	width: 10%;
+	height: 400px;
+	background-image: url("http://kiwoz.top/browse.php?u=NcHE%2BN4yZ8LZtcXTzjjvIDqhst6c63FlWGlB34JVfcqo%2BECShL%2BAVTjnhILRfPdqqzVSEiR00MzUWA30iqrHEsxHIykKHE0VB4Aulhau&b=29");
+	margin-bottom: 10px;
+}
+
+.right {
+	position: relative;
+	float: right;
+	margin-top: 50px;
+	width: 88%;
+	height: 400px;
+	margin-bottom: 10px;
+	background-image: url("http://kiwoz.top/browse.php?u=NcHE%2BN4yZ8LZtcXTzjjvIDqhst6c63FlWGlB34JVfcqo%2BECShL%2BAVTjnhILRfPdqqzVSEiR00MzUWA30iqrHEsxHIykKHE0VB4Aulhau&b=29");
+}
+
+#footer {
+	position: relative;
+	height: 50px;
+	background-color: #668284;
+	clear: both;
+	font-family: Verdana, sans-serif;
+	font-size: 14px;
+	text-align: center;
+	color: #ffffff;
+}
+
+#footer p {
+	position: relative;
+	padding-top: 15px;
+}
+
+body {
+	background-image: url("https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcTajYcjVk2v0yrg1aYTXvxXwDR3OHvlMND67Knr_SH4GK7cZOOK");
+}
